@@ -1,5 +1,0 @@
-name: FireStats
-version: 0.0.1
-author: AniSkywalker
-description: "Using Firebase, we've created the fastest possible stats log with a live webfront."
-main: me.meyerzinn.firestats.FireStats
